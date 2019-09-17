@@ -1,0 +1,98 @@
+.hero_img {
+	display: block;
+	height: 300px;
+    width: 100%;
+}
+
+.main_tab{
+	height: 35px;
+	font-size: 1.3em;
+	color: lightgray;
+}
+
+.about_tab{
+	height: 35px;
+	font-size: 1.3em;
+	color: lightgray;
+}
+
+.contact_tab{
+	height: 37px;
+	font-size: 1.5em;
+	color: white;
+}
+
+.contact_hero_img{
+    display: block;
+    height: 100%;
+    width: 95%;
+    object-fit: cover;
+    object-position: 20% 25%;
+}
+
+body {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	background-color: rgb(12, 158, 12);
+}
+
+.bottom_border{
+	display: block;
+	clear: left;
+	height: 30px;
+	width: 100%;
+	background-color: rgb(12, 158, 12);
+}
+
+.contact_nav_border{
+	display: block;
+	clear: left;
+	height: 30px;
+	width: 100%;
+	background-color: rgb(12, 158, 12);
+}
+
+.contact_main{
+    display: block;
+    height: 580px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact_block{
+    display: block;
+    float: left;
+    width: 49%;
+    height: 100%;
+    /* background-color: yellowgreen; */
+	background-color: rgb(174, 212, 99);
+}
+
+.contact_map{
+    display: block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact_form{
+    display: block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: center;
+    margin-top: 10px;
+    margin-bottom: auto;
+    height: 100%;
+    width: 100%;
+    /* background-color: yellowgreen; */
+	background-color: rgb(174, 212, 99);
+}
+
+.dbl_brdr {
+border: 3px;
+border-color: black;
+border-style: double;
+margin: auto;}
