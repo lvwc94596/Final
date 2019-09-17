@@ -393,6 +393,12 @@ h2 {
 	background-color: white;
 }
 
+.favicon{
+	size: "16x16";
+	object-fit: scale-down;
+	object-position: 0%;
+}
+
 .polaroid_img {
 	font-family: "Font Shui";
 	width: 100%;
